@@ -77,6 +77,19 @@ const START_STUDENTS = [
   { id: "S-001", name: "Aguenza", section: "6-A", loans: [{ bookId: 2, due: daysAgo(3) }] },
   { id: "S-002", name: "Palomares", section: "5-B", loans: [{ bookId: 1, due: daysAgo(-4) }] },
   { id: "S-003", name: "Perez", section: "6-A", loans: [] },
+  { id: "S-004", name: "Pernitez", section: "BT-3102", loans: [] },
+  { id: "S-005", name: "Rubia", section: "BT-3102", loans: [] },
+  { id: "S-006", name: "Alemania", section: "BT-3102", loans: [] },
+  { id: "S-007", name: "Pascual", section: "BT-3102", loans: [] },
+  { id: "S-008", name: "Palinsad", section: "BT-3102", loans: [] },
+  { id: "S-009", name: "Feliciano", section: "BT-3102", loans: [] },
+  { id: "S-010", name: "Diaz", section: "BT-3102", loans: [] },
+   { id: "S-011", name: "Boglosa", section: "BT-3102", loans: [] },
+      { id: "S-012", name: "Marabe", section: "BT-3102", loans: [] },
+       { id: "S-013", name: "Baylon", section: "BT-3102", loans: [] },
+           { id: "S-014", name: "Noble", section: "BT-3102", loans: [] },
+  
+  
 ];
 
 /* ---------- Inspection artifacts (Documents tab) ---------- */
